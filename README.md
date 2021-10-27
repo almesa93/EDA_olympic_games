@@ -1,5 +1,7 @@
 ## EDA_olympic_games
 
+![image](./data/images/aros_olimpicos_bandera.jpg)
+
 ### Introduccion
 
 En el estudio que tiene lugar en este notebook, analizaremos los **Juegos Olímpicos verano** a lo largo de la historia, desde el 1896, que fueron los primeros de la era moderna, hasta los realizados en Río de Janeiro de 2016.
