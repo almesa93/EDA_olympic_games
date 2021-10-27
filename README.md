@@ -1,6 +1,6 @@
 ## EDA_olympic_games
 
-![image](./data/images/aros_olimpicos_bandera.jpg)
+![image](https://cdn.pixabay.com/photo/2021/06/06/04/15/olympic-games-6314253_960_720.jpg)
 
 ### Introduccion
 
